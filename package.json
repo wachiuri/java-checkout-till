@@ -1,0 +1,23 @@
+{
+  "name": "triggerise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wachiuri/triggerise.git"
+  },
+  "author": "Timothy Wachiuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wachiuri/triggerise/issues"
+  },
+  "homepage": "https://github.com/wachiuri/triggerise#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
