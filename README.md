@@ -1,4 +1,4 @@
-# triggerise
+# Java checkout till
 
 ## Prerequisites
 
